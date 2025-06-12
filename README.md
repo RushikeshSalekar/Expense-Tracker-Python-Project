@@ -35,10 +35,3 @@ Optional summary views for individuals.
 Python 3
 
 Object-Oriented Programming (OOP)
-
-📌 Future Improvements
-Add GUI interface using Tkinter or Streamlit
-
-Export summary as CSV or PDF
-
-Include date and category filters
